@@ -1,2 +1,3 @@
-a = input('введите первое число ')
-b = input('введите второе число ')
+from mod1 import foo as bar
+
+pi = bar()
